@@ -18,7 +18,6 @@ All models are designed to upsample 6-band multispectral (MS) imagery from 48×4
 super_resolution_project/
 ├── README.md                    # This file
 ├── requirements.txt             # Python dependencies
-├── .gitignore                  # Git ignore rules
 │
 ├── models/                      # Model architectures
 │   ├── __init__.py
